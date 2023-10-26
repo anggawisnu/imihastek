@@ -2,7 +2,7 @@
 ### PEMBAYARAN HASHEA
 
 | NO | DESKRIPSI | JUMLAH PEMBAYARAN |
-| --- | --- | --- |
+| --- | --- | ---: |
 | 1 | Bayar HDD 300GB (5 x 3.500.000) | 17.500.000 |
 | 2 | Bayar HDD 10 TB (3 x 11.000.000) | 33.000.000 |
 | 3 | Asuransi HDD 300GB (5 x 1.000.000) | 5.000.000 |
